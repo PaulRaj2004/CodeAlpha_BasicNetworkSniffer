@@ -1,14 +1,4 @@
 # CodeAlpha_BasicNetworkSniffer
-Looks great 👍 You’ve already written a neat README draft for your **Basic Network Sniffer** project.
-To make it more professional and complete, I’d suggest adding:
-
-1. **Usage section** – so users know how to run it.
-2. **Code Example (Quick Start)** – showing how to launch the GUI.
-3. **Contribution & License info** – if you plan to share publicly.
-4. **Troubleshooting tips** – e.g., needing admin/root privileges for packet capture.
-5. **Future improvements** – optional, but shows roadmap.
-
-Here’s an updated, polished version of your README:
 
 ---
 
@@ -101,6 +91,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 [MIT License](LICENSE)
 
----
-
-Would you like me to also **write a short Python code snippet** (`sniffer.py`) that matches exactly with this README (Tkinter + Scapy with start/stop + stats)? That way, anyone cloning your repo can run it immediately.
